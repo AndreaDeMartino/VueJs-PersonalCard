@@ -1,6 +1,9 @@
-# MyCard-component
+# Vue-Cli v2
 
-> A Vue.js project
+> A personalized 3D card that can be used as a Vue component
+
+![](src/assets/preview.gif)
+
 
 ## Build Setup
 
