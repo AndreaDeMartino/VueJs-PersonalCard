@@ -2,6 +2,8 @@
 
 > A personalized 3D card that can be used as a Vue component
 
+> ##### Preview: http://vue-3dcard.s3-website.eu-south-1.amazonaws.com/
+
 ![](src/assets/preview.gif)
 
 
